@@ -71,5 +71,3 @@ while 1:
 
 s.close()
 
-with open('London_test.json', 'a') as f:
-                f.write(data)
